@@ -1,0 +1,17 @@
+{
+  "name": "Wake-On-Lan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ping": "^0.4.0",
+    "wake_on_lan": "^1.0.0"
+  }
+}
